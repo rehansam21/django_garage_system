@@ -1,0 +1,1 @@
+# django_garage_system
